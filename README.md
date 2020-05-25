@@ -1,4 +1,4 @@
-## Gemini: genome-wide estimation of transcription factor binding co-occupancy
+## Evidence of widespread independent sequence signature for transcription factor co-binding
 
 Please contact (mqzhou@umich.edu or hyangl@umich.edu or gyuanfan@umich.edu) if you have any questions or suggestions.
 
@@ -9,7 +9,7 @@ Please contact (mqzhou@umich.edu or hyangl@umich.edu or gyuanfan@umich.edu) if y
 ## Installation
 Git clone a copy of code:
 ```
-git clone https://github.com/GuanLab/Gemini.git
+git clone https://github.com/GuanLab/Sequence_Analysis_for_TF-co-binding.git
 ```
 ## Required dependencies
 
